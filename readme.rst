@@ -2,15 +2,15 @@
 Maju Jaya Elektrik
 ###################
 
-user admin : admin
+user admin : admin ,
 password : admin123
 
-user sales1 : sales
+user sales1 : sales ,
 password : sales123
 
-user manager : manager
+user manager : manager ,
 password : manager1234
 
-user sales2 : inisales
+user sales2 : inisales ,
 password : inisales1234
 
